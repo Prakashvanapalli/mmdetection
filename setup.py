@@ -142,7 +142,7 @@ if __name__ == '__main__':
     write_version_py()
     setup(
         name='mmdet',
-        version=get_version(),
+        version="1.0.0",
         description='Open MMLab Detection Toolbox and Benchmark',
         long_description=readme(),
         author='OpenMMLab',
