@@ -148,7 +148,7 @@ if __name__ == '__main__':
         author='OpenMMLab',
         author_email='chenkaidev@gmail.com',
         keywords='computer vision, object detection',
-        url='https://github.com/open-mmlab/mmdetection',
+        url='https://github.com/Prakashvanapalli/mmdetection',
         packages=find_packages(exclude=('configs', 'tools', 'demo')),
         package_data={'mmdet.ops': ['*/*.so']},
         classifiers=[
