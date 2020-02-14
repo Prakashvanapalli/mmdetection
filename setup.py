@@ -28,6 +28,7 @@ else:
     SHORT_VERSION = '{}.{}{}'.format(MAJOR, MINOR, SUFFIX)
 
 version_file = 'mmdet/version.py'
+version="1.0.0"
 
 
 def get_git_hash():
